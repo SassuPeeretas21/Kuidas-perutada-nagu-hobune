@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Grand+Hotel&display=swap');
+html{
+   scroll-behavior: smooth;
+}
+ body{
+     font-family: "Dosis", sans-serif;
+     line-height: 1.8;
+     background-color: beige;
+ }
+ #sisu{
+   max-width: 50em;
+   margin: 0 auto;
+   padding-top: 3em;
+ }
+ #menu {
+   text-align: center;
+   background-color: rgb(232, 216, 216);
+   margin: -8px;
+   height: 3em;
+   padding-top:  2em;
+   position: fixed;
+   width: 100%;
+   margin-top: -22px;
+ }
+ #menu a{
+   color: rgb(0, 0, 0);
+   text-transform: uppercase;
+   padding: 0 1em;
+ }
+ #menu a:hover{
+   color:brown;
+ }
+ #Singipilt{
+    max-width: 600px;
+    width: 100%;
+ }
+ .sininevärv{
+   color: rgb(100, 237, 121);
+ }
+ a{
+    color: rgb(93, 215, 69);
+    text-decoration: none;
+ }
+ a:hover{
+    color: rgb(198, 101, 41);
+ }
